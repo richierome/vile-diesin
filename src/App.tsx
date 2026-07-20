@@ -2,8 +2,8 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { useForm, ValidationError } from "@formspree/react";
 
 const tracks = [
-  { n: "01", title: "Miles Bennett Dyson", src: "/audio/mbd2026.wav", status: "TRANSMITTING" },
-  { n: "02", title: "Escape From L.A", src: "/audio/escape2026.wav", status: "STABLE" },
+  { n: "01", title: "Miles Bennett Dyson", src: "/audio/mbd2026.mp3", status: "TRANSMITTING" },
+  { n: "02", title: "Escape From L.A", src: "/audio/escape2026.mp3", status: "STABLE" },
   { n: "03", title: "SkyNet Falls (Victory March -- War Ends)", src: "/audio/march.wav", status: "UNRELEASED" },
 ];
 
