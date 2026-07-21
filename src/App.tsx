@@ -4,7 +4,7 @@ import { useForm, ValidationError } from "@formspree/react";
 const tracks = [
   { n: "01", title: "SkyNet Falls (Victory March -- War Ends)", src: "/audio/skynet.mp3", status: "UNRELEASED" },
   { n: "02", title: "Miles Bennett Dyson", src: "/audio/mbd2026.mp3", status: "TRANSMITTING" },
-  { n: "03", title: "Escape From L.A", src: "/audio/escape2026.mp3", status: "STABLE" },
+  { n: "03", title: "Escape From L.A.", src: "/audio/escape2026.mp3", status: "STABLE" },
     
 ];
 
