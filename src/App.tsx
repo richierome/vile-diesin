@@ -160,7 +160,7 @@ export default function Home() {
         <button onClick={()=>setBriefingOpen(true)}>REQUEST ARCHIVE ACCESS <b>→</b></button>
       </section>
 
-      <footer><p>© 2026 // ALL TIMELINES RESERVED</p><div><a href="https://www.instagram.com/vile_diesin?igsh=NTc4MTIwNjQ2YQ==">INSTAGRAM</a><a href="https://open.spotify.com/artist/3VFpdEu0jWT0nJFe1FmILE?si=l0YXw-d8TA-tr610GjMRSg&utm_source=copy-link">SPOTIFY</a></div></footer>
+      <footer><p>© 2027 // ALL TIMELINES RESERVED</p><div><a href="https://www.instagram.com/vile_diesin?igsh=NTc4MTIwNjQ2YQ==">INSTAGRAM</a><a href="https://open.spotify.com/artist/3VFpdEu0jWT0nJFe1FmILE?si=l0YXw-d8TA-tr610GjMRSg&utm_source=copy-link">SPOTIFY</a></div></footer>
 
       {briefingOpen && (
   <div
